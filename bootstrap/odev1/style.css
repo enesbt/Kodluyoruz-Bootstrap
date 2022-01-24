@@ -1,0 +1,16 @@
+#baslık{
+    color: red;
+    font-family: monospace;
+    text-align: center;
+
+}
+#baslık2{
+    color: rgb(184, 184, 15);
+    font-size: medium;
+    text-align: center;
+}
+.list{
+    text-align: center;
+    list-style: none;
+    font-family: sans-serif;
+}
